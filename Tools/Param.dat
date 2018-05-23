@@ -1,26 +1,26 @@
-sC:\Users\KimHyunGon\Desktop\export\OpenJigWare\Tools\Tools\bin\Release\rts_pr2_Spider.ojw
-s17
+sD:\Bin\C#\GitHub\for Me(In Secret)\OpenJigWare\OpenJigWare\Tools\Tools\bin\Release\rts_pr2_PRE.ojw
+s5
 s57600
 s192.168.20.7
 s5002
-b1
+b0
 b0
 b0
 b0
 b0
 b0
 s5002
-s2
+s1
 s1
 s70
-s0
+s-90
 s0
 s0
 b0
 b0
 s1
 b0
-b1
+b0
 s0
 s1
 s2
@@ -28,9 +28,9 @@ s3
 s0
 s1
 s2
-sD:\내 문서\2018\4.모션\PR2\릴리즈용\휴머노이드
+s
 sC:\Users\Ojw5014\Downloads
-n1
+sC:\Users\Ojw5014\Desktop\보행_PR2_20180515.xlsx
 b0
 s0
 b0

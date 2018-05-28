@@ -1,17 +1,33 @@
-sD:\Bin\C#\GitHub\for Me(In Secret)\OpenJigWare\OpenJigWare\Tools\Tools\bin\Release\rts_pr2_PRE.ojw
-s5
-s57600
+s
+s1
+s3
+s192.168.1.1
 s192.168.20.7
-s5002
+b1
 b0
 b0
+b1
 b0
-b0
-b0
-b0
-s5002
+b1
+s192.168.20.7
 s1
+s0
+s70
+s0
+s0
+s0
+b0
+b1
+s<<<<<< .mine
+b1
+b1
+s|||||| .r207
 s1
+s2
+s======
+s1
+s10
+s>>>>>> .r208
 s70
 s-90
 s0
@@ -30,7 +46,7 @@ s1
 s2
 s
 sC:\Users\Ojw5014\Downloads
-sC:\Users\Ojw5014\Desktop\焊青_PR2_20180515.xlsx
+sC:\Users\Ojw5014\Desktop\焊青_磊悼积己.xlsx
 b0
 s0
 b0
